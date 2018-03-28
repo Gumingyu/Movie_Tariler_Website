@@ -31,10 +31,8 @@ the_Shawshank_Redemption = media.Movie("The Shawshank Redemption",
                            "https://ia.media-imdb.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
                            "http://www.imdb.com/title/tt0111161/videoplayer/vi3877612057")
 
-#movies = [toy_story, avatar, godfather,transformers, the_Shawshank_Redemption]
-#fresh_tomatoes.open_movies_page(movies)
+movies = [toy_story, avatar, godfather,transformers, the_Shawshank_Redemption]
+fresh_tomatoes.open_movies_page(movies)
 #print(media.Movie.VALID_RATINGS)
-print(media.Movie.__name__)
-print(media.Movie.__doc__)
-print(media.Movie.__module__)
+
 
