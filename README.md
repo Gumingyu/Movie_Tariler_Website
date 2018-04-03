@@ -10,5 +10,5 @@ Use python to create a movie trailer website, which shows my favorite movies' tr
 Make sure all these three files are in the same folder. Then run file entertainment.py .
 
 
-## Listens 
-Copyright (c) [2018] [Gumingyu]
+## What you can do with them? 
+You can replace some strings in entertainment.py and use it to disply your favorite movies or anything else that can be displyed.
