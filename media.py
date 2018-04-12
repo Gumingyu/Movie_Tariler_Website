@@ -1,11 +1,13 @@
 import webbrowser
+
+
 class Movie():
-    """This class provides a way to store movie related information. 
+
+    """This class provides a way to store movie related information.
     The Movie class holds __init__ and show_trailer attributes in this file."""
-   
-    
-    def __init__(self, movie_title, movie_storyline, poster_image,
-               trailer_youtube):
+
+    def __init__(self, movie_title, movie_storyline,
+                 poster_image, trailer_youtube):
         self.title = movie_title
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
