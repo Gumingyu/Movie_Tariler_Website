@@ -7,7 +7,6 @@ In order to run this program you will need the following:
 
 1. Computer( windows or Mac OS)
 2. Python 2.7.12 (or latest python 2 version) Installed
-3. Working knowledge of using the command-line
 
 ## Instruction
 
